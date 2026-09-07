@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 250,
+    "width": 1500,
+    "height": 2000,
+    "isRotated": false,
+    "originalWidth": 2000,
+    "originalHeight": 2000
+  },
+  "imagePath": "image-targets/Frente Iron Man_original_luminance.jpg",
+  "metadata": null,
+  "name": "Frente Iron Man_original",
+  "resources": {
+    "originalImage": "Frente Iron Man_original_original.jpg",
+    "croppedImage": "Frente Iron Man_original_cropped.jpg",
+    "thumbnailImage": "Frente Iron Man_original_thumbnail.jpg",
+    "luminanceImage": "Frente Iron Man_original_luminance.jpg"
+  },
+  "created": 1788818881482,
+  "updated": 1788818881482
+}

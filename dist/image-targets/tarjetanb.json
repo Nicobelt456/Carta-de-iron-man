@@ -1,7 +1,7 @@
 {
   "type": "PLANAR",
   "properties": {
-    "top": 28,
+    "top": 29,
     "left": 0,
     "width": 1065,
     "height": 1420,
@@ -19,5 +19,5 @@
     "luminanceImage": "tarjetanb_luminance.jpg"
   },
   "created": 1785954830250,
-  "updated": 1785954830250
+  "updated": 1788818635352
 }
