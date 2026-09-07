@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 28,
+    "left": 0,
+    "width": 1065,
+    "height": 1420,
+    "isRotated": false,
+    "originalWidth": 1065,
+    "originalHeight": 1477
+  },
+  "imagePath": "image-targets/tarjetanb_luminance.jpg",
+  "metadata": null,
+  "name": "tarjetanb",
+  "resources": {
+    "originalImage": "tarjetanb_original.jpg",
+    "croppedImage": "tarjetanb_cropped.jpg",
+    "thumbnailImage": "tarjetanb_thumbnail.jpg",
+    "luminanceImage": "tarjetanb_luminance.jpg"
+  },
+  "created": 1785954830250,
+  "updated": 1785954830250
+}
