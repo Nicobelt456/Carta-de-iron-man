@@ -309,7 +309,7 @@
       "id": "da578fb5-4be5-4840-8c77-2c886cba967d",
       "position": [
         -0.4319895586400463,
-        0.39676862443218286,
+        0.3967686244321829,
         1.1042719978755222
       ],
       "rotation": [
@@ -319,7 +319,7 @@
         0.7071067811865476
       ],
       "scale": [
-        0.42687575505862935,
+        0.4268757550586293,
         0.6535289472055305,
         0.31707317073170704
       ],
@@ -327,10 +327,15 @@
       "material": null,
       "parentId": "22239748-1dd2-4827-9a8a-3cd7c03e9dd1",
       "components": {
-        "16b791e9-4c25-4ff7-9b4f-27c5abcc8ea0": {
-          "id": "16b791e9-4c25-4ff7-9b4f-27c5abcc8ea0",
-          "name": "boton1",
-          "parameters": {}
+        "46d966e1-8906-44bc-a1e4-811500f22893": {
+          "id": "46d966e1-8906-44bc-a1e4-811500f22893",
+          "name": "AudioButton",
+          "parameters": {
+            "audioEntity": {
+              "type": "entity",
+              "id": "da578fb5-4be5-4840-8c77-2c886cba967d"
+            }
+          }
         }
       },
       "ui": {
@@ -352,7 +357,7 @@
         "backgroundSize": "contain"
       },
       "name": "boton1",
-      "order": 8.067919296929597,
+      "order": 8.128382031834901,
       "audio": {
         "src": {
           "type": "asset",
@@ -432,7 +437,7 @@
     "b0221ebb-da10-490c-bc12-44f6a7b93750": {
       "id": "b0221ebb-da10-490c-bc12-44f6a7b93750",
       "position": [
-        0.42568266060635135,
+        0.42568266060635124,
         0.3875251128766223,
         1.1439625456592102
       ],
@@ -443,7 +448,7 @@
         0.7071067811865476
       ],
       "scale": [
-        0.3490436409372776,
+        0.3490436409372775,
         0.5178652052915502,
         0.4474640396017938
       ],
@@ -451,10 +456,15 @@
       "material": null,
       "parentId": "22239748-1dd2-4827-9a8a-3cd7c03e9dd1",
       "components": {
-        "78ea2332-58c9-4340-b933-966513541894": {
-          "id": "78ea2332-58c9-4340-b933-966513541894",
-          "name": "boton2",
-          "parameters": {}
+        "710e4d5c-f752-4bb8-9f17-1023e3f1e16a": {
+          "id": "710e4d5c-f752-4bb8-9f17-1023e3f1e16a",
+          "name": "AudioButton",
+          "parameters": {
+            "audioEntity": {
+              "type": "entity",
+              "id": "b0221ebb-da10-490c-bc12-44f6a7b93750"
+            }
+          }
         }
       },
       "ui": {
@@ -476,7 +486,7 @@
         "backgroundSize": "contain"
       },
       "name": "boton2",
-      "order": 9.655885917376276,
+      "order": 11.367255590618342,
       "audio": {
         "src": {
           "type": "asset",
@@ -573,10 +583,15 @@
       "material": null,
       "parentId": "22239748-1dd2-4827-9a8a-3cd7c03e9dd1",
       "components": {
-        "6cc7b270-a0a2-40b9-a678-41a1740234ab": {
-          "id": "6cc7b270-a0a2-40b9-a678-41a1740234ab",
-          "name": "boton3",
-          "parameters": {}
+        "b12f55c5-7949-495b-9067-8d3a1ede1061": {
+          "id": "b12f55c5-7949-495b-9067-8d3a1ede1061",
+          "name": "AudioButton",
+          "parameters": {
+            "audioEntity": {
+              "type": "entity",
+              "id": "aba8f3a3-5900-42af-bb2d-cdeb998ec569"
+            }
+          }
         }
       },
       "ui": {
@@ -598,7 +613,7 @@
         "backgroundSize": "contain"
       },
       "name": "boton3",
-      "order": 11.201592025118433,
+      "order": 9.529589288961802,
       "audio": {
         "src": {
           "type": "asset",
